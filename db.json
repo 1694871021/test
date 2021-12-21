@@ -1,6 +1,9 @@
 {
-	posts: {
-		aaa: 1,
-		bbb: 2
-	}
+	"posts": [{
+		"id": 1,
+		"world": 2
+	},{
+		"id": 2,
+		"world": 2
+	}]
 }
